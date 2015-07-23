@@ -1,1 +1,1 @@
-Binary Search Tree practice problems
+Binary Search Tree problems
